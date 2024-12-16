@@ -29,16 +29,6 @@
 			path = PodTest;
 			sourceTree = "<group>";
 		};
-		2B6459952D10451B008DB3FB /* PodTestTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PodTestTests;
-			sourceTree = "<group>";
-		};
-		2B64599F2D10451B008DB3FB /* PodTestUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PodTestUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +46,6 @@
 			isa = PBXGroup;
 			children = (
 				2B6459792D104519008DB3FB /* PodTest */,
-				2B6459952D10451B008DB3FB /* PodTestTests */,
-				2B64599F2D10451B008DB3FB /* PodTestUITests */,
 				2B6459782D104519008DB3FB /* Products */,
 			);
 			sourceTree = "<group>";
